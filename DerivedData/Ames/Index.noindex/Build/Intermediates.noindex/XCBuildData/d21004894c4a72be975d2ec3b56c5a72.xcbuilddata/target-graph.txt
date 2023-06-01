@@ -1,3 +1,0 @@
-Target dependency graph (2 targets)
-Ames in Ames, no dependencies
-Ames in Ames, no dependencies
